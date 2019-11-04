@@ -1,33 +1,33 @@
-ï»¿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Dishes>
   <Dish>
-    <Name>è¡€è…¥ç‘ªéº—</Name>
-    <Category>é…’é¡ž</Category>
+    <Name>¦å¸{º¿ÄR¨È</Name>
+    <Category>°sÃþ</Category>
     <Commnet></Commnet>
     <Score>3.5</Score>
   </Dish>
   <Dish>
-    <Name>é•·å³¶å†°èŒ¶</Name>
-    <Category>é…’é¡ž</Category>
-    <Commnet>æœ¬åº—æ‹›ç‰Œ</Commnet>
+    <Name>ªø®q¦Bªº¯ù</Name>
+    <Category>°sÃþ</Category>
+    <Commnet>¥»©±©ÛµP</Commnet>
     <Score>5</Score>
   </Dish>
   <Dish>
-    <Name>èžºçµ²èµ·å­</Name>
-    <Category>é…’é¡ž</Category>
+    <Name>Á³µ·±¶§J</Name>
+    <Category>°sÃþ</Category>
     <Commnet></Commnet>
     <Score>4</Score>
   </Dish>
   <Dish>
-    <Name>è–¯æ¢</Name>
-    <Category>é¤é»ž</Category>
+    <Name>Á¦±ø</Name>
+    <Category>À\ÂI</Category>
     <Commnet></Commnet>
     <Score>4.1</Score>
   </Dish>
   <Dish>
-    <Name>æ´‹è”¥åœˆ</Name>
-    <Category>é¤å“</Category>
-    <Commnet>æœ¬åº—æ‹›ç‰Œ</Commnet>
+    <Name>¬v½µ°é</Name>
+    <Category>À\«~</Category>
+    <Commnet>¥»©±©ÛµP</Commnet>
     <Score>5</Score>
   </Dish>
 </Dishes>
