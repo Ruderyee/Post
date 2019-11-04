@@ -1,0 +1,14 @@
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\bin\Debug\Resturant_Post.exe
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\bin\Debug\Resturant_Post.pdb
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\MainWindow.baml
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\MainWindow.g.cs
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\App.g.cs
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post_MarkupCompile.cache
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.g.resources
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.Properties.Resources.resources
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.csproj.GenerateResource.Cache
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.exe
+c:\users\tylu\documents\visual studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.pdb
+C:\Users\tylu\Documents\Visual Studio 2013\Projects\Resturant_Post\Resturant_Post\bin\Debug\Data\Data.xml
+C:\Users\tylu\Documents\Visual Studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post_Content.g.cs
+C:\Users\tylu\Documents\Visual Studio 2013\Projects\Resturant_Post\Resturant_Post\obj\Debug\Resturant_Post.csprojResolveAssemblyReference.cache
